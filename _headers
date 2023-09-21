@@ -2,3 +2,6 @@
 /
   X-Frame-Options: DENY
   Access-Control-Allow-Origin: *
+
+Patmcqueen.com
+  Access-Control-Allow-Origin: *
